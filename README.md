@@ -1,5 +1,5 @@
 # comp4702
-These examples are designed to help you get over the hurdle of learning ```scikit-learn``` and ```pytorch``` modules to implement machine learning models for COMP4710.
+These examples are designed to help you get over the hurdle of learning ```scikit-learn``` and ```pytorch``` modules to implement machine learning models for COMP4702.
 
 This repository covers examples like:
 * Decision Trees
@@ -8,7 +8,7 @@ This repository covers examples like:
 * Cross-Validation
 
 # Dependancies
-This package assumes you have a ```miniconda``` environment installed. If you do not, please see [https://docs.conda.io/projects/miniconda/en/latest/](minconda).
+This package assumes you have a ```miniconda``` environment installed. If you do not, please see [minconda](https://docs.conda.io/projects/miniconda/en/latest/).
 ```bash
 conda create -n comp4702_examples python=3.10
 conda activate comp4702_examples
