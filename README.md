@@ -18,5 +18,5 @@ conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvi
 ```
 
 # Helpful Repositories
-* [https://github.com/aladdinpersson/Machine-Learning-Collection](Machine-Learning-Collection)
-* [https://github.com/pytorch/examples](PyTorch-Examples) 
+* [Machine-Learning-Collection](https://github.com/aladdinpersson/Machine-Learning-Collection)
+* [PyTorch-Examples](https://github.com/pytorch/examples) 
